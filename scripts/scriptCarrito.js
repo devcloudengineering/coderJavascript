@@ -28,7 +28,10 @@ home.animate(keyframes, 3500);
 
 (async () => {
   try {
-    const respuesta = await fetch("../data/data.json", { method: "GET" });
+    const respuesta = await fetch(
+      "https://devcloudengineering.github.io/coderJavascript/data/data.json",
+      { method: "GET" }
+    );
     if (respuesta.status === 200) {
       console.log(
         `Se ha establecido una conexion con status : ${respuesta.status}, en estado: ${respuesta.ok}, desde la url: ${respuesta.url}`
