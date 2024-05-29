@@ -13,3 +13,13 @@ Entrega 2
 3. En tercera instancia se le pregunta cuantos kg desea comprar (Contiene parseInt al escribir un numero flotante solo tomara la parte entera asi que procurar escribir solo numeros enteros en kg)
 4. Luego se pregunta si quiere seguir añadiendo mas productos al carrito y vuelve a repetir el ciclo
 5. Finalmente se calcula el monto total a pagar considerando los productos mencionados
+
+Entrega 3
+
+1. Codigo interactivo implementando DOM
+2. Se muestra productos a comprar utilizando diseño responsivo (Flex-Box) y css - Maquetacion secundaria position
+3. Se añade carrito de compras
+4. Funcionalidad Javascript (Transformacion y procesamiento de arreglos)
+5. Utilizacion de LocalStorage (getItem y setItem)
+
+devcloudengineering Gustavo Creado
