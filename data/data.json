@@ -3,72 +3,72 @@
         "nombre": "Ananas",
         "id": 1,
         "precio": 1400,
-        "img": "../assets/ananas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/ananas.jpg"
     },
     {
         "nombre": "Bananas",
         "id": 2,
         "precio": 1200,
-        "img": "../assets/bananas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/bananas.jpg"
     },
     {
         "nombre": "Durazno",
         "id": 3,
         "precio": 1000,
-        "img": "../assets/durazno.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/durazno.jpg"
     },
     {
         "nombre": "Frambuesas",
         "id": 4,
         "precio": 1450,
-        "img": "../assets/frambuesas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/frambuesas.jpg"
     },
     {
         "nombre": "Frutillas",
         "id": 5,
         "precio": 1800,
-        "img": "../assets/frutillas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/frutillas.jpg"
     },
     {
         "nombre": "Kiwis",
         "id": 6,
         "precio": 1500,
-        "img": "../assets/kiwis.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/kiwis.jpg"
     },
     {
         "nombre": "Manzanas",
         "id": 7,
         "precio": 1300,
-        "img": "../assets/manzanas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/manzanas.jpg"
     },
     {
         "nombre": "Melon",
         "id": 8,
         "precio": 1700,
-        "img": "../assets/melon.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/melon.jpg"
     },
     {
         "nombre": "Paltas",
         "id": 9,
         "precio": 2300,
-        "img": "../assets/paltas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/paltas.jpg"
     },
     {
         "nombre": "Peras",
         "id": 10,
         "precio": 900,
-        "img": "../assets/peras.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/peras.jpg"
     },
     {
         "nombre": "Sandias",
         "id": 11,
         "precio": 2800,
-        "img": "../assets/sandias.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/sandias.jpg"
     },
     {
         "nombre": "Uvas",
         "id": 12,
         "precio": 1650,
-        "img": "../assets/uvas.jpg"
+        "img": "https://devcloudengineering.github.io/coderJavascript/assets/uvas.jpg"
     }
 ]
