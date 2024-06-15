@@ -87,6 +87,20 @@ const crearProductos = (data) => {
   contenedorDeProductos.appendChild(fragment);
   document.body.appendChild(contenedorDeProductos);
 
+  // Incorporar Toastify
+  const btn = Array.from(document.querySelectorAll(".btn-comprar"));
+  btn.forEach((e) => {
+    e.addEventListener("click", () => {
+      Toastify({
+        text: "Agregaste un elemento al carrito",
+        style: {
+          background: "green",
+        },
+        duration: 1500,
+      }).showToast();
+    });
+  });
+
   // Dar interaccion y utilidad a las cantidades y botones
   const productos = document.getElementById("container-productos");
   productos.addEventListener("click", (e) => {
@@ -206,6 +220,13 @@ productosCarrito.addEventListener("click", (e) => {
       carrito.find((e) => {
         if (e.id === controlId) {
           e.cantidad--;
+          Toastify({
+            text: "Eliminaste un articulo",
+            style: {
+              background: "red",
+            },
+            duration: 1500,
+          }).showToast();
           if (e.cantidad === 0) {
             carrito = carrito.filter((e) => e.id !== controlId);
             ingresarCarrito(carrito);
