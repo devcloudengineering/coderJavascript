@@ -23,3 +23,6 @@ Entrega 3
 5. Utilizacion de LocalStorage (getItem y setItem)
 
 devcloudengineering Gustavo Creado
+
+Proyecto final
+Se incluye libreria Toastify para notificaciones de compra y eliminacion de cada elemento por carrito
